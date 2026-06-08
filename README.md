@@ -65,7 +65,7 @@ Super-store-sales-dashboard/
 ```
 
 ---
-#📷 Dashboard Preview
+## 📷 Dashboard Preview
 <img width="1313" height="738" alt="Screenshot 2026-06-08 174407" src="https://github.com/user-attachments/assets/72c5511f-d47b-4ac2-a285-41f7ba8fc6ef" />
 <img width="1317" height="733" alt="Screenshot 2026-06-08 174424" src="https://github.com/user-attachments/assets/3e12eca5-f2fb-4dd8-b2b2-6761732a6f4d" />
 
